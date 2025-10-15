@@ -1,5 +1,4 @@
 # 👋 Hi, I'm Mamadou Kabore
-
 🎓 **Computer Science Student @ Carleton University**  
 💡 **AI Engineering | Full-Stack Development | Product-Oriented Engineer**
 
@@ -20,6 +19,8 @@ My work focuses on AI orchestration, modular backend design, and human-centered 
 **Frameworks:** FastAPI, Django, Node.js / Express, React Native, Flutter  
 **Databases:** PostgreSQL, MongoDB, Vector DBs  
 **Tools:** Docker, AWS, Vercel, Render, Figma, Git  
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ---
 
