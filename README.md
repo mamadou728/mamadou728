@@ -1,8 +1,12 @@
 # 👋 Hi, I'm Mamadou Kabore
-🎓 **Computer Science Student @ Carleton University**  
-💡 **AI Engineering | Full-Stack Development | Product-Oriented Engineer**
 
-I'm passionate about building intelligent systems that bridge engineering and real-world usability.  
+[![GitHub Streak](https://streak-stats.demolab.com?user=mamadou728&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
+🎓 **Computer Science Student @ Carleton University**
+  
+💡 **AI Engineering | Full-Stack Development | Product-Oriented Engineer**
+I'm passionate about building intelligent systems that bridge engineering and real-world usability.
+  
 My work focuses on AI orchestration, modular backend design, and human-centered product engineering.
 
 ---
@@ -15,11 +19,13 @@ My work focuses on AI orchestration, modular backend design, and human-centered 
 ---
 
 ### 🧩 Tech Stack
-**Languages:** Python, JavaScript, TypeScript, Java, C++, SQL  
-**Frameworks:** FastAPI, Django, Node.js / Express, React Native, Flutter  
-**Databases:** PostgreSQL, MongoDB, Vector DBs  
+**Languages:** Python, JavaScript, TypeScript, Java, C++, SQL
+  
+**Frameworks:** FastAPI, Django, Node.js / Express, React Native, Flutter
+  
+**Databases:** PostgreSQL, MongoDB, Vector DBs
+  
 **Tools:** Docker, AWS, Vercel, Render, Figma, Git  
-
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ---
