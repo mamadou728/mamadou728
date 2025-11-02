@@ -12,5 +12,3 @@ My work focuses on AI orchestration, modular backend design, and human-centered 
 - Building AI systems that combine reasoning, automation, and user intent  
 - Designing scalable full-stack architectures with **FastAPI**, **Node.js**, and **React Native**  
 - Experimenting with **LangGraph**, **RAG pipelines**, and **vector databases** for smarter agents
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=mamadou728)](https://git.io/streak-stats)
