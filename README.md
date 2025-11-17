@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Mamadou Kabore
 🎓 **Computer Science Student @ Carleton University**
   
-💡 **AI Engineering | Full-Stack Development | Product-Oriented Engineer**
+💡 **AI Engineering | Full-Stack Development | Product Engineering Enthusiast**
 I'm passionate about building intelligent systems that bridge engineering and real-world usability.
   
 My work focuses on AI orchestration, modular backend design, and human-centered product engineering.
